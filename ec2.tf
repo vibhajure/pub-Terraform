@@ -14,3 +14,9 @@ resource "aws_instance" "temp_vm1" {
   }
 
 }
+
+
+
+
+
+#
