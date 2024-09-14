@@ -1,3 +1,4 @@
+#3. s3 bucket configuration
 resource "aws_s3_bucket" "my_bucket" {
   bucket  = "ryana-bucket3"
   tags    = {
