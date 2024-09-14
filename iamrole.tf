@@ -1,3 +1,4 @@
+#4. IAM Role and Policy
 resource "aws_iam_role" "read_role" {
   name = "readrole"
 
